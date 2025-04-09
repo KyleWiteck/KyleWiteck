@@ -2,7 +2,7 @@
 
 I'm a Senior Front-End Engineer with a focus on scalable UI architecture, strong developer experience, and clean, performant code. I specialize in React + TypeScript.
 
-I don’t work on flashy side projects or code for fun. I focus on solving real problems, shipping smart solutions, and building things that make sense. By staying focused on my core responsibilities, I avoid burnout and ensure I can dedicate my energy to business projects that truly matter.
+I focus on delivering high-impact solutions that solve real problems, with an emphasis on maintainable code and efficient development practices. My approach is centered on building products that make sense and drive business value.
 
 ## 🧠 What I Do Well
 
