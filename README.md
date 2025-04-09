@@ -32,6 +32,12 @@ Here’s a visual representation of the technologies I work with across my priva
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWiteck&layout=compact&theme=default&hide=html&langs_count=10)
 
+![Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWiteck&layout=compact&theme=default&hide=html&langs_count=10)
+
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
 
 ---
 
