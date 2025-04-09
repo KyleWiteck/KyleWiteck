@@ -26,4 +26,7 @@ Building a B2B SaaS product part-time — focused on solid architecture, clean U
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWiteck&layout=compact&theme=default)
+
+
 You can reach me through GitHub or connect privately if we share a vision.
