@@ -44,22 +44,10 @@ Check out my progress on Codewars:
 
 ---
 
+## 💬 Reach Out
+
 You can reach me through GitHub, LinkedIn, or Twitter if we share a vision.
 
 - 📝 [LinkedIn](https://www.linkedin.com/in/KyleWiteck)
-
----
-
-
-## 🌱 Streak Stats
-
-Let's keep the streaks going!
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KyleWiteck)
-
-
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=KyleWiteck&theme=github)
-![CI](https://img.shields.io/github/workflow/status/username/repo-name/CI%20Pipeline)
 
 
