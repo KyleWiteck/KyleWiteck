@@ -40,8 +40,7 @@ Technologies I work with on a daily basis:
 
 Check out my progress on Codewars:
 
-![Codewars](https://www.codewars.com/users/B1n@ryB1ts/badges/large)
-
+![Codewars](https://github-readme-codewars-stats.vercel.app/api/?username=B1n@ryB1ts&theme=tokyonight)
 ---
 
 You can reach me through GitHub, LinkedIn, or Twitter if we share a vision.
