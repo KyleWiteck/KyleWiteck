@@ -14,7 +14,7 @@ I focus on delivering high-impact solutions that solve real problems, with an em
 
 ---
 
-## 💻 My Tech Stack
+## 💻 Top Languages
 
 Here's a visual representation of the programming languages I use across both my public and private projects:
 
