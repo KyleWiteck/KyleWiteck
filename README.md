@@ -1,12 +1,29 @@
-# 👋 Kyle B. Witeck
+# Hey — I'm Kyle Witeck
 
-Senior Front-End Engineer focused on building clean, performant UI systems with React, TypeScript, and a heavy dose of pragmatism. I don’t waste time on buzzwords or pointless side projects. I ship what matters.
+I'm a Senior Front-End Engineer with a focus on scalable UI architecture, strong developer experience, and clean, performant code. I specialize in React + TypeScript, and I'm currently building a SaaS product solo — from auth and subscriptions to UI and billing.
 
-- 🧠 Front-End Architect in the making
-- 🎯 Core strengths: UI Architecture, Performance, Accessibility, DX
-- 🛠️ Current stack: React, Vite, Vanilla Extract, Hono, Drizzle ORM
-- 🔒 Focused on building secure, scalable SaaS from scratch
-- 🧩 Also building a SaaS product solo — slowly, deliberately, with purpose
+I don’t work on flashy side projects or code for fun. I care about solving real problems, shipping smart solutions, and building things that make sense.
 
-> I'm not looking to impress — just to be understood by the right people.
+## 🧠 What I Do Well
 
+- Front-End Architecture & Design Systems
+- React, TypeScript, Vite, Vanilla Extract
+- Performance optimization & accessibility
+- UI component libraries built for maintainability
+- Building SaaS from scratch (auth, billing, permissions, DX)
+
+## 🚧 Currently Working On
+
+Building a B2B SaaS product part-time — focused on solid architecture, clean UX, and a smooth user onboarding flow. Foundation first, features later.
+
+## 🎯 Career Goals
+
+- Front-End Architect track
+- Remote-only roles ($175k+)
+- Financial freedom through software & real estate
+
+> I don't want a flashy portfolio. I want to build things that give people time back and let me do the same.
+
+---
+
+You can reach me through GitHub or connect privately if we share a vision.
