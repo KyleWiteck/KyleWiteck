@@ -37,6 +37,3 @@ Check out my progress on Codewars:
 You can reach me through GitHub, LinkedIn, or Twitter if we share a vision.
 
 - 📝 [LinkedIn](https://www.linkedin.com/in/KyleWiteck)
-
-[![Repos per Language](https://raw.githubusercontent.com/KyleWiteck/KyleWiteck/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Stats](https://raw.githubusercontent.com/KyleWiteck/KyleWiteck/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
