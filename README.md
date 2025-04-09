@@ -24,18 +24,6 @@ Here's a visual representation of the programming languages I use across both my
 
 ---
 
-## ⚙️ My Tech Stack
-
-Technologies I work with on a daily basis:
-
-[![React](https://img.shields.io/badge/React-%23104E8B.svg)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-%2356B1F0.svg)](https://vitejs.dev/)
-[![Vanilla Extract](https://img.shields.io/badge/Vanilla_Extract-%23365C7D.svg)](https://vanilla-extract.style/)
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg)](https://nodejs.org/)
-
----
-
 ## 🌱 Codewars Stats
 
 Check out my progress on Codewars:
