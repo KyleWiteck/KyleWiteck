@@ -16,7 +16,7 @@ I don’t work on flashy side projects or code for fun. I care about solving rea
 
 ## 💻 My Tech Stack
 
-Here’s a visual representation of the technologies I work with across my private and public projects:
+Here's a visual representation of the programming languages I use across both my public and private projects:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWiteck&layout=compact&theme=default&hide=html&langs_count=10)
 
