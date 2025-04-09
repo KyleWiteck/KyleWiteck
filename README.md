@@ -42,15 +42,20 @@ Here’s a quick overview of my contributions:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyleWiteck&show_icons=true&count_private=true&theme=tokyonight)
 
-## 🌱 Streak Stats
+---
 
-Let's keep the streaks going!
+## 🌱 Codewars Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KyleWiteck&theme=tokyonight)
+Here's my progress on Codewars:
+
+![Codewars](https://www.codewars.com/users/KyleWiteck/badges/large)
 
 ---
 
 You can reach me through GitHub, LinkedIn, or Twitter if we share a vision.
 
 - 📝 [LinkedIn](https://www.linkedin.com/in/KyleWiteck)
+- 🐦 [Twitter](https://twitter.com/KyleWiteck)
+- 🌐 [Portfolio](https://your-portfolio-link.com)
 
+---
