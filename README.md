@@ -20,8 +20,6 @@ Here’s a visual representation of the technologies I work with across my priva
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWiteck&layout=compact&theme=default&hide=html&langs_count=10)
 
-![Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWiteck&layout=compact&theme=default&hide=html&langs_count=10)
-
 ---
 
 You can reach me through GitHub or connect privately if we share a vision.
