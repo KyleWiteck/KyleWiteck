@@ -12,18 +12,6 @@ I don’t work on flashy side projects or code for fun. I care about solving rea
 - UI component libraries built for maintainability
 - Building SaaS from scratch (auth, billing, permissions, DX)
 
-## 🚧 Currently Working On
-
-Building a B2B SaaS product part-time — focused on solid architecture, clean UX, and a smooth user onboarding flow. Foundation first, features later.
-
-## 🎯 Career Goals
-
-- Front-End Architect track
-- Remote-only roles ($175k+)
-- Financial freedom through software & real estate
-
-> I don't want a flashy portfolio. I want to build things that give people time back and let me do the same.
-
 ---
 
 ## 💻 My Tech Stack
