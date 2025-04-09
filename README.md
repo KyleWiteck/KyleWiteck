@@ -26,7 +26,12 @@ Building a B2B SaaS product part-time — focused on solid architecture, clean U
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWiteck&layout=compact&theme=default)
+## 💻 My Tech Stack
 
+Here’s a visual representation of the technologies I work with, including both private and public projects:
+
+![Tech Stack](https://github.com/KyleWiteck/KyleWiteck/blob/main/assets/tech-stack-pie-chart.png)
+
+---
 
 You can reach me through GitHub or connect privately if we share a vision.
