@@ -4,13 +4,15 @@ I'm a Senior Front-End Engineer with a focus on scalable UI architecture, strong
 
 I focus on delivering high-impact solutions that solve real problems, with an emphasis on maintainable code and efficient development practices. My approach is centered on building products that make sense and drive business value.
 
+---
+
 ## 🧠 What I Do Well
 
 - Front-End Architecture & Design Systems
 - React, TypeScript, Vite, Vanilla Extract
 - Performance optimization & accessibility
 - UI component libraries built for maintainability
-- Building SaaS from scratch (auth, billing, permissions, DX)
+- Building scalable and user-friendly products
 
 ---
 
@@ -22,4 +24,33 @@ Here's a visual representation of the programming languages I use across both my
 
 ---
 
-You can reach me through GitHub or connect privately if we share a vision.
+## ⚙️ My Tech Stack
+
+Technologies I work with on a daily basis:
+
+[![React](https://img.shields.io/badge/React-%23104E8B.svg)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-%2356B1F0.svg)](https://vitejs.dev/)
+[![Vanilla Extract](https://img.shields.io/badge/Vanilla_Extract-%23365C7D.svg)](https://vanilla-extract.style/)
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg)](https://nodejs.org/)
+
+---
+
+## 📊 GitHub Stats
+
+Here’s a quick overview of my contributions:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyleWiteck&show_icons=true&count_private=true&theme=tokyonight)
+
+## 🌱 Streak Stats
+
+Let's keep the streaks going!
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KyleWiteck&theme=tokyonight)
+
+---
+
+You can reach me through GitHub, LinkedIn, or Twitter if we share a vision.
+
+- 📝 [LinkedIn](https://www.linkedin.com/in/KyleWiteck)
+
