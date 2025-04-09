@@ -40,7 +40,7 @@ Technologies I work with on a daily basis:
 
 Check out my progress on Codewars:
 
-![Codewars](https://www.codewars.com/users/B1n@ryB1ts/badges/large)
+[![Codewars](https://www.codewars.com/users/B1n@ryB1ts/badges/large)](https://www.codewars.com/users/B1n@ryB1ts)
 
 ---
 
