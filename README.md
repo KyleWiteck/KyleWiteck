@@ -1,8 +1,8 @@
 # Hey — I'm Kyle Witeck
 
-I'm a Senior Front-End Engineer with a focus on scalable UI architecture, strong developer experience, and clean, performant code. I specialize in React + TypeScript, and I'm currently building a SaaS product solo — from auth and subscriptions to UI and billing.
+I'm a Senior Front-End Engineer with a focus on scalable UI architecture, strong developer experience, and clean, performant code. I specialize in React + TypeScript.
 
-I don’t work on flashy side projects or code for fun. I care about solving real problems, shipping smart solutions, and building things that make sense.
+I don’t work on flashy side projects or code for fun. I focus on solving real problems, shipping smart solutions, and building things that make sense. By staying focused on my core responsibilities, I avoid burnout and ensure I can dedicate my energy to business projects that truly matter.
 
 ## 🧠 What I Do Well
 
