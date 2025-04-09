@@ -18,7 +18,7 @@ I focus on delivering high-impact solutions that solve real problems, with an em
 
 Here's a visual representation of the programming languages I use across both my public and private projects:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWiteck&layout=compact&theme=default&hide=html&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWiteck&layout=compact&theme=default&hide=html&langs_count=20)
 
 ---
 
