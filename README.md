@@ -36,26 +36,16 @@ Technologies I work with on a daily basis:
 
 ---
 
-## 📊 GitHub Stats
-
-Here’s a quick overview of my contributions:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyleWiteck&show_icons=true&count_private=true&theme=tokyonight)
-
----
-
 ## 🌱 Codewars Stats
 
-Here's my progress on Codewars:
+Check out my progress on Codewars:
 
-![Codewars](https://www.codewars.com/users/KyleWiteck/badges/large)
+![Codewars](https://www.codewars.com/users/B1n@ryB1ts/badges/large)
 
 ---
 
 You can reach me through GitHub, LinkedIn, or Twitter if we share a vision.
 
 - 📝 [LinkedIn](https://www.linkedin.com/in/KyleWiteck)
-- 🐦 [Twitter](https://twitter.com/KyleWiteck)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
 
 ---
