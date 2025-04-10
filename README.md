@@ -1,4 +1,4 @@
-# Hey — I'm Kyle Witeck
+# Hey, I'm Kyle Witeck
 
 I'm a Senior Frontend Engineer with a focus on scalable UI architecture, strong developer experience, and clean, performant code. I specialize in React + TypeScript.
 
