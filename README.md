@@ -24,14 +24,6 @@ Here's a visual representation of the programming languages I use across both my
 
 ---
 
-## 🌱 Codewars Stats
-
-Check out my progress on Codewars:
-
-[![Codewars](https://www.codewars.com/users/B1n@ryB1ts/badges/large)](https://www.codewars.com/users/B1n@ryB1ts)
-
----
-
 ## 💬 Reach Out
 
 You can reach me through GitHub, LinkedIn, or Twitter if we share a vision.
