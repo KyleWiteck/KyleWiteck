@@ -1,8 +1,8 @@
 # Hey, I'm Kyle Witeck
 
-I'm a Senior Frontend Engineer with a focus on scalable UI architecture, strong developer experience, and clean, performant code. I specialize in React + TypeScript.
+I'm a Senior Frontend Engineer specializing in React and TypeScript, with a strong focus on scalable UI architecture, developer experience, and clean, performant code. I bring a product-minded approach to engineering, prioritizing user experience and business value in every decision.
 
-I focus on delivering high impact solutions that solve real problems, with an emphasis on maintainable code and efficient development practices. My approach is centered on building products that make sense and drive business value.
+My work centers on delivering high impact solutions that solve real problems, grounded in efficient development practices and maintainable code. I care deeply about building intuitive, accessible interfaces that make sense to users and support meaningful outcomes.
 
 ---
 
