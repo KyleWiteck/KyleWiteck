@@ -35,4 +35,3 @@ Here's a visual representation of the programming languages I use across both my
 You can reach me through GitHub, LinkedIn, or Twitter if we share a vision.
 
 - 📝 [LinkedIn](https://www.linkedin.com/in/KyleWiteck)  
-- 🐦 [Twitter](https://twitter.com/your_twitter_handle)
