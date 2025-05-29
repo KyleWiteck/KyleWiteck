@@ -8,11 +8,11 @@ My work centers on delivering high impact solutions that solve real problems, gr
 
 ## 🧠 What I Do Well
 
-- Frontend Architecture & Design Systems
-- React, TypeScript, Vite, Vanilla Extract, TailwindCSS, Radix, GraphQL/Relay
-- Performance optimization & accessibility
-- UI component libraries built for maintainability
-- Building scalable and user-friendly products
+- Frontend Architecture & Design Systems  
+- React, TypeScript, Vite, Vanilla Extract, TailwindCSS, Radix, GraphQL/Relay  
+- Performance optimization & accessibility  
+- UI component libraries built for maintainability  
+- Building scalable and user-friendly products  
   
 ---
 
@@ -24,8 +24,15 @@ Here's a visual representation of the programming languages I use across both my
 
 ---
 
+## 🔧 Featured Project
+
+- **[Witeck Design System](https://github.com/KyleWiteck/witeck-design-system)** – A scalable React design system built with Vanilla Extract and Radix UI, focused on maintainability, accessibility, and theming support.
+
+---
+
 ## 💬 Reach Out
 
 You can reach me through GitHub, LinkedIn, or Twitter if we share a vision.
 
-- 📝 [LinkedIn](https://www.linkedin.com/in/KyleWiteck)
+- 📝 [LinkedIn](https://www.linkedin.com/in/KyleWiteck)  
+- 🐦 [Twitter](https://twitter.com/your_twitter_handle)
